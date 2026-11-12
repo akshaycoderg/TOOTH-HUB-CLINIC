@@ -8,11 +8,11 @@ A responsive sample website concept for The Tooth Hub Dental Clinic in Basavanag
 
 ## Project
 
-This is a static website built with HTML, CSS, and JavaScript. Styles and browser behavior are kept in separate files:
+This is a static website built with HTML, CSS, and JavaScript. Keep the project files together in the repository root:
 
 - `index.html` - page structure and metadata
-- `assets/css/styles.css` - responsive layout and visual styles
-- `assets/js/main.js` - page rendering and interactions
+- `styles.css` - responsive layout and visual styles
+- `main.js` - page rendering and interactions
 
 To run it locally, open `index.html` in a web browser. There is no build step or package installation required.
 
